@@ -1,0 +1,12 @@
+{
+  "name": "severus/php-normal-distribution-graph",
+  "authors": [
+    {
+      "name": "gitwell",
+      "email": "thinkweiwei@msn.com"
+    }
+  ],
+  "require": {
+    "phpoffice/phpexcel": "1.8.1"
+  }
+}

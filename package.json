@@ -1,0 +1,8 @@
+{
+  "name": "php-NormalDistributionGraph",
+  "version": "0.0.1",
+  "dependencies": {
+    "echarts": "^3.8.5",
+    "jquery": "^3.2.1"
+  }
+}
