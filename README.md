@@ -5,7 +5,9 @@ php-NormalDistributionGraph
 > 基于PHP实现 - 正态分布图计算
 
 
-
+![](https://ws4.sinaimg.cn/large/006tKfTcly1fnbxmcn7joj30mr0eqwfm.jpg)
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fnbxn347h3j30lt0d4gme.jpg)
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fnbxoclg1jj30k90dowfg.jpg)
 
 项目依赖
 ------
